@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(153, 202, 251);
+}
+form {
+    background-color: rgb(204, 225, 244);
+    padding: 5px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;    
+    justify-content: center; 
+}
+.section{
+     margin: 5px;
+     padding: 15px;
+     background: #acc6f9;
+     border-radius: 3px;
+     border-style: solid;
+}
+#submit {
+    background-color: rgb(150, 198, 244);
+}
